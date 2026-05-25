@@ -1,28 +1,32 @@
 # Shivang Koul
+
 **BCom (Hons) · Hansraj College, University of Delhi**  
 Finance & Technology | Equity Research | Fintech Development
 
----
-
-### What I'm building
-📊 **Titan Company — Independent Equity Research** *(active)*  
-End-to-end equity research project: 3-statement Excel model, DCF valuation,
-10,000-iteration Monte Carlo simulation in Python, and a sell-side investment memo.
-Base-case implied price ₹558/share | Monte Carlo median ₹824 | CMP ₹4,450
+📍 New Delhi · 📧 Koulshivang.24@gmail.com · [LinkedIn](https://linkedin.com/in/shivangkoul)
 
 ---
 
-### Live projects
+### Highlights
+
+🥇 **1st Place — S.P.A.R.C. National Strategy Competition** (1,000+ pan-India teams, 2024)
+
+---
+
+### Projects
+
 | Project | Stack | Link |
 |---|---|---|
-| Stock Portfolio Analyst | Python · React · Vercel · NSE API | [stock-portfolio-analyst.vercel.app](https://stock-portfolio-analyst.vercel.app) |
-| AI Finance Assistant | Python · Groq LLM · Streamlit | [ai-finance-assistant.streamlit.app](https://ai-finance-assistant-9dobugbub6nwcsacgd5cnh.streamlit.app) |
+| Titan Equity Research & DCF | Excel · Python · Monte Carlo · Groq LLM | [Repo](https://github.com/shivangkoul/titan-equity-research) |
+| Stock Portfolio Analyst | Python · React · Vercel · NSE API | [Live](https://stock-portfolio-analyst.vercel.app) |
+| AI Finance Assistant | Python · Groq LLM · Streamlit | [Live](https://ai-finance-assisstant.streamlit.app) |
 
 ---
 
 ### Stack
+
 `Python` `NumPy` `Pandas` `Matplotlib` `SciPy` `React` `Groq LLM API`  
-`Microsoft Excel` `Power BI` `Vercel` `FastAPI` `Oracle OCI GenAI`
+`Microsoft Excel` `Power BI` `Vercel` `Oracle OCI GenAI`
 
 ---
 
