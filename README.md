@@ -19,7 +19,7 @@ Finance & Technology | Equity Research | Fintech Development
 |---|---|---|
 | Titan Equity Research & DCF | Excel · Python · Monte Carlo · Groq LLM | [Repo](https://github.com/shivangkoul/titan-equity-research) |
 | Stock Portfolio Analyst | Python · React · Vercel · NSE API | [Live](https://stock-portfolio-analyst.vercel.app) |
-| AI Finance Assistant | Python · Groq LLM · Streamlit | [Live](https://ai-finance-assisstant.streamlit.app) |
+| AI Finance Assistant | Python · Groq LLM · Streamlit | [Live](https://ai-finance-assistant-9dobugbub6nwcsacgd5cnh.streamlit.app/) |
 
 ---
 
